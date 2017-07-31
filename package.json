@@ -1,0 +1,27 @@
+{
+  "name": "get-arguments",
+  "version": "1.0.2",
+  "description": "Returns the object with CLI command, arguments and values passed by the user.",
+  "main": "index.js",
+  "keywords": [
+    "cli",
+    "command",
+    "line",
+    "arguments",
+    "parameters",
+    "parse"
+  ],
+  "author": "Pawel Rafalko <dev.rafalko@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cli-color": "^1.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devrafalko/get-arguments.git"
+  },
+  "bugs": {
+    "url": "https://github.com/devrafalko/get-arguments/issues"
+  },
+  "homepage": "https://github.com/devrafalko/get-arguments#readme"
+}
